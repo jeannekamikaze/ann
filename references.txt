@@ -1,0 +1,2 @@
+http://natureofcode.com/book/chapter-10-neural-networks/
+http://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html

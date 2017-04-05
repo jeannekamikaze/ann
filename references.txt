@@ -1,2 +1,9 @@
+Perceptron learning algorithm:
+
 http://natureofcode.com/book/chapter-10-neural-networks/
 http://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html
+https://en.wikipedia.org/wiki/Perceptron
+
+Proof for perceptron learning algorithm:
+
+http://www.cs.columbia.edu/~mcollins/courses/6998-2012/notes/perc.converge.pdf

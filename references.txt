@@ -7,3 +7,7 @@ https://en.wikipedia.org/wiki/Perceptron
 Convergence proof for the perceptron learning algorithm:
 
 http://www.cs.columbia.edu/~mcollins/courses/6998-2012/notes/perc.converge.pdf
+
+This gives intution on the learning rule, and specifically why you multiple the delta by the input when adjusting weights:
+
+http://hagan.okstate.edu/4_Perceptron.pdf
